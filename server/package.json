@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@reclaimprotocol/reclaim-sdk": "^4.2.4",
+    "@reclaimprotocol/reclaim-sdk": "^4.4.2",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "debug": "~2.6.9",
